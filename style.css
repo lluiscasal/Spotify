@@ -1,0 +1,80 @@
+html, body, .main{
+    height: 100%;
+}
+.artist-table td{
+    font-size: 20px;
+    text-align: center;
+	border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    text-align: left;
+ 
+}
+
+.artist-table td img{
+	border-radius: 10px;
+}
+
+.artist-table2 td{
+    font-size: 15px;
+    text-align: center;
+	border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    text-align: left;
+ 
+}
+
+.artist-table2 td img{
+	border-radius: 10px;
+}
+
+
+
+.list {
+	display: flex;
+	justify-content: space-around;
+    width: 80%;
+    margin: auto;
+}
+
+.artist-table img {
+    height: 100px;
+    width: 100px;
+}
+
+.artist-table2 img {
+    height: 50px;
+    width: 50px;
+}
+
+input[type="text"] {
+  font-size: 20px;
+}
+
+input{
+    width: 400px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    
+}
+.right {
+    text-align: center;
+    width: 30%;
+    background: rgba(92, 142, 255, 0.31);
+}
+
+.left {
+    width: 70%;
+}
+
+.main {
+    display: flex;
+}
